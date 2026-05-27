@@ -40,3 +40,7 @@ NVIDIA GeForce RTX 4070 Laptop GPU, 54, 9, 15, 8188
 - Docker対応
 - Web UI
 - FastAPI
+
+## Screenshot
+
+![GPU Monitor](Screenshot from 2026-05-27 22-11-03.png)
