@@ -19,6 +19,13 @@ GPU使用率・温度・VRAMを監視するPythonツール。
 
 ```bash
 python main.py
+
+```
+## Docker
+
+``` bash
+docker build -t gpu-monitor .
+docker run --gpus all gpu-monitor
 ```
 
 ## Example Output
