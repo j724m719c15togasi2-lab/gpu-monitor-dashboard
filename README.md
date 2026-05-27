@@ -43,4 +43,4 @@ NVIDIA GeForce RTX 4070 Laptop GPU, 54, 9, 15, 8188
 
 ## Screenshot
 
-![GPU Monitor](Screenshot from 2026-05-27 22-11-03.png)
+![GPU Monitor](./Screenshot%20from%202026-05-27%2022-11-03.png)
